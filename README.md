@@ -32,7 +32,7 @@ A modern React Native mobile application for managing contacts with features lik
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/contacts-dashboard-app.git
+git clone https://github.com/thparas07/internship_project.git
 cd contacts-dashboard-app
 ```
 
