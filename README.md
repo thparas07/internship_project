@@ -94,6 +94,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - Paras Rajesh Thakur
 
-Project Link: [https://github.com/yourusername/contacts-dashboard-app](https://github.com/yourusername/contacts-dashboard-app) 
+Project Link: https://github.com/thparas07/internship_project.git
